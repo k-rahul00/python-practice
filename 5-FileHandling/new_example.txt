@@ -1,0 +1,7 @@
+hello Mark
+welcome to python programming
+This is a new data being appended to the file
+Welcome to file handling
+Lin1
+Line2
+Line3
